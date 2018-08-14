@@ -1,4 +1,10 @@
-# DZenProgrmclyMaster
-Проект для курса по IOS разработке
+# DoTo Insit
+Тестовое задание для Инсит
 
-https://docs.google.com/presentation/d/1rmd-M3R0KON9moOL5uI53zKMxa9vk8ap3kOYVIT5-pQ/edit?usp=sharing
+# Installation
+1. Установить XCode из AppStore
+2. Ввести в терминале команду `sudo gem install cocoapods`
+3. Зайти в терминале в корневую директорию проекта (например `cd /Users/pavel/Downloads/ToDoInsitt-master`)
+4. Ввести в терминале команду `pod install`
+5. Открыть сгенерированный файл с расширением `.xcworkspace`
+6. Выбрать подходящее устройство(наилучший вариант из симуляторов IPhone SE) и запустить проект
